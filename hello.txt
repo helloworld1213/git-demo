@@ -21,5 +21,6 @@ hello git02
 hello git02
 master
 hot-fix
+master
 hello git02
 hello git00
